@@ -211,7 +211,7 @@ html {
   font-size: 15px; }
 
 body {
-  color: #8e9ca5;
+  color: #383e42fc;
   font-family: "Roboto", "Open Sans", sans-serif;
   font-weight: 300;
   line-height: 1.5; }
@@ -1698,7 +1698,7 @@ figure {
   .arrow-list li {
     padding: 10px 0 10px 10px; }
     .arrow-list li a {
-      color: #8e9ca5;
+      color: #383e42fc;
       -webkit-transition: .3s ease;
               transition: .3s ease; }
       .arrow-list li a:hover {
