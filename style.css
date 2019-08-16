@@ -199,7 +199,18 @@ textarea {
 
 table {
   border-collapse: collapse;
-  border-spacing: 0; }
+  width: 100%;
+  border-collapse:collapse;
+  border-spacing: 5; }
+
+tr {
+    padding:2px;
+}
+
+td {
+    padding:2px;
+}
+
 
 *, *:before, *:after {
   box-sizing: border-box; }
@@ -976,7 +987,9 @@ form input[type="submit"], form button, form input[type="reset"] {
     display: block !important; }
 
   table.visible-xs {
-    display: table; }
+    display: table;
+
+ }
 
   tr.visible-xs {
     display: table-row !important; }
