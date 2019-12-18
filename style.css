@@ -4,7 +4,7 @@
  * Email: contact@themezy.com
  * Url: http://www.themezy.com
  */
-/*=========================================== 
+/*===========================================
  * Importing CSS Libraries
  *===========================================*/
 article,
@@ -1721,6 +1721,19 @@ figure {
     .arrow-list.has-border li:last-child {
       border-bottom: none; }
 
-.extra_indent { 
+.extra_indent {
   padding-left: 15px
+}
+
+img.LRDC_Map {
+    width: 100%;
+    height: auto;
+    border: 2px solid;
+    padding: 2px;
+    margin-left: 20px;
+}
+
+
+.Research_Assistants {
+    padding-top: 40px;
 }
